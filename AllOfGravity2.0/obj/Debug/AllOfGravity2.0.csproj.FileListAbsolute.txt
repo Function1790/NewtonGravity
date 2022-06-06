@@ -1,0 +1,17 @@
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\bin\Debug\AllOfGravity2.0.exe.config
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\bin\Debug\AllOfGravity2.0.exe
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\bin\Debug\AllOfGravity2.0.pdb
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\MainWindow.g.cs
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\Thing.g.cs
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\App.g.cs
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0_MarkupCompile.cache
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0_MarkupCompile.lref
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\MainWindow.baml
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\Thing.baml
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0.g.resources
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2._0.Properties.Resources.resources
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0.csproj.GenerateResource.cache
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0.csproj.CoreCompileInputs.cache
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0.exe
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0.pdb
+D:\WPF3\AllOfGravity2.0\AllOfGravity2.0\obj\Debug\AllOfGravity2.0.csproj.AssemblyReference.cache

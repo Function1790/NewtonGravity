@@ -1,0 +1,19 @@
+﻿<Window x:Class="AllOfGravity2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AllOfGravity2._0"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="Newton" Height="1200" Width="1700">
+    <Grid x:Name="WindowedGrid" Background="#FF080615">
+        <Grid x:Name="WorldGrid" MouseMove="WorldGrid_MouseMove" MouseDown="WorldGrid_MouseDown" MouseUp="WorldGrid_MouseUp" Background="#00000000">
+            <Canvas x:Name="WorldGrid_Canvas"/>
+        </Grid>
+        <Grid x:Name="DataModifyGrid" HorizontalAlignment="Right" Height="80" Margin="0,0,0,0" VerticalAlignment="Top" Width="435">
+            <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Mass" VerticalAlignment="Top" Foreground="White" FontSize="40"/>
+            <TextBox x:Name="InputMass" HorizontalAlignment="Left" Height="58" Margin="112,12,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="313" Foreground="White" Background="#19FFFFFF" FontSize="40" SelectionBrush="White" BorderBrush="{x:Null}" CaretBrush="White"/>
+        </Grid>
+    </Grid>
+</Window>

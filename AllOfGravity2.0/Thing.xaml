@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="AllOfGravity2._0.Thing"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AllOfGravity2._0"
+             MouseDown="UserControl_MouseDown"
+             MouseMove="UserControl_MouseMove"
+             mc:Ignorable="d" 
+             VerticalAlignment="Top"
+             HorizontalAlignment="Left"
+             Loaded="UserControl_Loaded"
+             d:DesignHeight="100" d:DesignWidth="100">
+    <Grid>
+        <Rectangle x:Name="BG" Fill="#4C6363C5" Stroke="#FF6363C5"/>
+        <Rectangle x:Name="VectorX" Fill="#7F17FF00" Height="1" Visibility="Hidden" Width="10" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="0,0,0,0"/>
+        <Rectangle x:Name="VectorY" Fill="#7FFF0000" Height="10" Visibility="Hidden" Width="1" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="0,0,0,0"/>
+        <TextBlock x:Name="DebugViewer" Padding="5,5,0,0" TextWrapping="Wrap" Foreground="#B2FFFFFF" FontSize="10"><Run Text="[ mass ]"/><LineBreak/><Run Text="10"/><LineBreak/><Run Text="[ velocity ]"/><LineBreak/><Run Text="(0, 0)"/><LineBreak/><Run Text="["/><Run Text=" "/><Run Text="position"/><Run Text=" "/><Run Text="]"/><LineBreak/><Run Text="(0, 0)"/></TextBlock>
+    </Grid>
+</UserControl>
